@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0476-number-complement](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0476-number-complement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
