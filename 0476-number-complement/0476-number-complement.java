@@ -1,8 +1,10 @@
 class Solution {
     public int findComplement(int num) {
-        String s = Integer.toBinaryString(num);
-        String a="1".repeat(s.length());
-        int x=Integer.parseInt(a, 2);
-        return num^x;
+        int a=0, n=num;
+        while(n!=0) {
+            n=n>>1;
+            a=a<<1|1;
+        }
+        return a^num;
     }
 }
