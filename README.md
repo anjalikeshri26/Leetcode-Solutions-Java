@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -306,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/anjalikeshri26/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
