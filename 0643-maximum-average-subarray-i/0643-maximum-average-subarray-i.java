@@ -11,8 +11,7 @@ class Solution {
             sum+=nums[i];
             sum-=nums[i-k];
             double avg=(double)sum/k;
-            if(mavg<avg)
-                mavg=avg;   
+            mavg=Math.max(mavg, avg);  
         }
         return mavg;
     }
