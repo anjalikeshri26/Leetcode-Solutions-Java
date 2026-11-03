@@ -14,9 +14,6 @@ class Solution {
                 if(c==']' && ch!='[')   return false;
             }
         }
-        if(stack.isEmpty())
-            return true;
-        else 
-            return false;
+        return stack.isEmpty();
     }
 }
